@@ -1,0 +1,22 @@
+{
+  "name": "adonis-onesignal",
+  "version": "1.0.0",
+  "description": "A OneSignal service provider for AdonisJS v.4.x",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "adonisjs",
+    "onesignal",
+    "notification"
+  ],
+  "author": "tecnossauro",
+  "license": "MIT",
+  "dependencies": {
+    "onesignal-node": "^2.1.1"
+  },
+  "devDependencies": {
+    "@adonisjs/fold": "^4.0.9"
+  }
+}
